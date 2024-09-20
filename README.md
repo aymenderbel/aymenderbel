@@ -15,6 +15,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aymenderbel&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
+## 🐍 My Contributions
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/aymenderbel/aymenderbel/output/github-contribution-grid-snake.svg" />
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aymenderbel&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
